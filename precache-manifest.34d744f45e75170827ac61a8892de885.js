@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e592c5e6a1f5b4c19f19cea8aa13dca0",
+    "revision": "62da9489b1bc2c56193d748a54b7cd22",
     "url": "/weddinguser.github.io/index.html"
   },
   {
-    "revision": "78bdb518025eb1993406",
+    "revision": "5d6202dd238c138d3850",
     "url": "/weddinguser.github.io/static/css/main.e1f427db.chunk.css"
   },
   {
-    "revision": "831a8022738c026f149c",
-    "url": "/weddinguser.github.io/static/js/2.4fbad170.chunk.js"
+    "revision": "8b6ec32b5725e75b31db",
+    "url": "/weddinguser.github.io/static/js/2.b0680cda.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/weddinguser.github.io/static/js/2.4fbad170.chunk.js.LICENSE.txt"
+    "url": "/weddinguser.github.io/static/js/2.b0680cda.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "78bdb518025eb1993406",
-    "url": "/weddinguser.github.io/static/js/main.da04e88d.chunk.js"
+    "revision": "5d6202dd238c138d3850",
+    "url": "/weddinguser.github.io/static/js/main.82a05105.chunk.js"
   },
   {
     "revision": "89c9d5799613b962c7e4",
