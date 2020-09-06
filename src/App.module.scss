@@ -1,0 +1,14 @@
+.container {
+  width: 100vw;
+  height: auto;
+  display: inline-flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.image {
+  max-width: 90vw;
+  max-height: 100vh;
+  height: auto;
+  object-fit: contain;
+}
