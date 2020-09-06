@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/weddinguser.github.io/static/css/main.e1f427db.chunk.css",
-    "main.js": "/weddinguser.github.io/static/js/main.a6992025.chunk.js",
-    "main.js.map": "/weddinguser.github.io/static/js/main.a6992025.chunk.js.map",
+    "main.js": "/weddinguser.github.io/static/js/main.da04e88d.chunk.js",
+    "main.js.map": "/weddinguser.github.io/static/js/main.da04e88d.chunk.js.map",
     "runtime-main.js": "/weddinguser.github.io/static/js/runtime-main.421bc6bc.js",
     "runtime-main.js.map": "/weddinguser.github.io/static/js/runtime-main.421bc6bc.js.map",
     "static/js/2.4fbad170.chunk.js": "/weddinguser.github.io/static/js/2.4fbad170.chunk.js",
     "static/js/2.4fbad170.chunk.js.map": "/weddinguser.github.io/static/js/2.4fbad170.chunk.js.map",
     "index.html": "/weddinguser.github.io/index.html",
-    "precache-manifest.b44ce25c9c1372aac58f27233381bbc4.js": "/weddinguser.github.io/precache-manifest.b44ce25c9c1372aac58f27233381bbc4.js",
+    "precache-manifest.8fda52a15cc58da2ef59acd599936e9d.js": "/weddinguser.github.io/precache-manifest.8fda52a15cc58da2ef59acd599936e9d.js",
     "service-worker.js": "/weddinguser.github.io/service-worker.js",
     "static/css/main.e1f427db.chunk.css.map": "/weddinguser.github.io/static/css/main.e1f427db.chunk.css.map",
     "static/js/2.4fbad170.chunk.js.LICENSE.txt": "/weddinguser.github.io/static/js/2.4fbad170.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.421bc6bc.js",
     "static/js/2.4fbad170.chunk.js",
     "static/css/main.e1f427db.chunk.css",
-    "static/js/main.a6992025.chunk.js"
+    "static/js/main.da04e88d.chunk.js"
   ]
 }
