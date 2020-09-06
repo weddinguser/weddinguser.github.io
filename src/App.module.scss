@@ -9,6 +9,17 @@
 .image {
   max-width: 90vw;
   max-height: 100vh;
-  height: auto;
-  object-fit: contain;
+  object-fit: scale-down;
+}
+
+.inviteContainer {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.userName {
+  position: absolute;
+  font-size: 18px;
+  top: 335px;
 }
